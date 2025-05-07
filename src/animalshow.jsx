@@ -51,4 +51,4 @@ function animalshow({type}){
     )
 }
 
-export default AnimalsShow
+export default animalshow
